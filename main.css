@@ -72,8 +72,8 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
-    --home-button-size: cover;
+    --home-icon: url(https://i.pinimg.com/originals/cf/06/f9/cf06f9a213e81c842b985cdf18b591cd.gif);
+    --home-button-size: 15x;
     --home-button-position: center;
     --bd-blue: var(--main-color);
     --bd-blue-hover: var(--hover-color);
