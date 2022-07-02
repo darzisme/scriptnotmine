@@ -98,9 +98,6 @@
   overflow: hidden;
   border-radius: var(--window-roundness);
 }
-#ChannelDms-channelmembers-wrap .ChannelDms-channelmembers-header {
-    background: #00000000;
-}
 #app-mount .base-2jDfDU::before {
   content: "";
   position: absolute;
