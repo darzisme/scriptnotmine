@@ -1120,6 +1120,7 @@ textarea {
 #app-mount .root-8LYsGj .userInfoSection-2acyCx {
   border: none;
 }
+
 #app-mount .root-8LYsGj .connectedAccount-36nQx7 {
   background: var(--background-secondary);
   border: none;
@@ -1251,6 +1252,10 @@ textarea {
 }
 #app-mount .container-36u7Lw {
   background: rgba(0, 0, 0, var(--middle-brightness));
+}
+
+#app-mount .scroller-18M1mG thin-31rlnD scrollerBase-_bVAAt {
+    background: rgba(0, 0, 0, var(--middle-brightness));
 }
 
 #app-mount .content-1SgpWY .discoverHeader-1TWTqG {
