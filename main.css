@@ -7005,6 +7005,17 @@ code {
 .hover-3OQb9Y:hover {
     background-color: rgba(255, 255, 255, 0.05);
 }
+#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n::before {
+  content: "";
+  border-radius: 50%;
+  position: absolute;
+  background: var(--home-button-image, url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg"));
+  background-size: var(--home-button-size, cover);
+  background-position: var(--home-button-position, center);
+  height: 100%;
+  width: 100%;
+  transition: 0.2s ease;
+}
 .icon-3g7qdA {
     color: rgba(255, 255, 255, 0.7);
 }
